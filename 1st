@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+    <h1>Welcome to the "Aitugaming" club</h1>
+
+    <form action="/action_page.php">
+      <label for="fname">First name:</label>
+      <input type="text" id="fname" name="fname"><br><br>
+      <label for="lname">Nickname:</label>
+      <input type="text" id="lname" name="lname"><br><br>
+      <input type="submit" value="Lets go">
+    </form>
+    
+    <p>Aitugaming Club is always happy to welcome new members!".</p>
+
+    <h1>The club consists of:</h1>
+
+<ul>
+  <li>President</li>
+  <li>Manager</li>
+  <li>Streamer</li>
+  <li>Admin</li>
+  <li>Player</li>
+  <li>Member</li>
+</ul>
+
+<h1>Watch our streams and always be up to date!</h1>
+
+<a href="https://www.twitch.tv/aitugaming">Visit our twithc!</a>
+
+<style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <h1>Our Streamers</h1>
+    
+    <table>
+      <tr>
+        <td>Dota 2</td>
+        <td>Alen "Rey"</td>
+      </tr>
+      <tr>
+        <td>Csgo</td>
+        <td>Arsen "Arakasi"</td>
+      </tr>
+      <tr>
+        <td>Valorant</td>
+        <td>Nurmuhamed "Mukhenzo"</td>
+      </tr>
+    </table>
+    
+    </body>
+
+
+</body>
+</html>
