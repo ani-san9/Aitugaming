@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid p-4 bg-warning text-white text-center">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Dorafuns</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">History</a></li>
+      <li><a href="#">Tracks</a></li>
+      <li><a href="#">Alboms</a></li>
+      <li><a href="#">Clips</a></li>
+      <li><a href="#">Concerts</a></li>
+      <li><a href="#">Style</a></li>
+      <li><a href="#">Contacts</a></li>
+      <li><a href="#">News</a></li>
+    </ul>
+  </div>
+</nav>
+<div class="container-fluid p-5 bg-primary text-white text-center">
+    <h1>Dora's music will save our world</h1>
+    <p>Dora - Дарья Сергеевна Шиханова, российская певица, исполняющая подростковый поп-рок</p>
+  </div>
+  <div class="nav-image">
+    <img src="images/664d7173d124b219d92cdac288cb5dce98fec17f.jpeg" class="img-fluid" alt="" style="display: flex; flex-direction: column; justify-content: center; margin: 15px auto; ">
+  </div>
+  <a href="https://www.youtube.com/watch?v=Kc7PL0Y0bTQ" class="btn btn-info btn-block" role="button">Слушать хит сезона: Dora - "Сан-Ларан"</a>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <h2>Song 1</h2>
+        <p>Трек Dora - "Втюрилась"</p>
+        <p>Я просто втюрилась</br>
+          Втрескалась, вкрашилась</br>
+          Потеряла голову</br>
+          Врезалась, вляпалась (ой)</br>
+          И я просто в тебя втюрилась</br>
+          Втрескалась, вкрашилась</br>
+          Потеряла голову</br>
+          Врезалась, влавилась</br></p>
+      </div>
+      <div class="col-sm-4">
+        <h2>Song 2</h2>
+        <p>Хит: Dora - "Сан-Ларан"</p>
+        <p>Тишка Saint Laurent висит на мне за сотку<br>
+            Но я все еще обычная девчонка<br>
+            Брюлики Cartier вставила в заколку<br>
+            Sosa Musik Ba6y, еду по району<br>
+            Розовый дым улетит в закат<br>
+            Девочка slim в худи oversize<br></p>
+      </div>
+      <div class="col-sm-4">
+        <h2>Song 3</h2>
+        <p>Трек Dora - "Дорадура"</p>
+        <p>Всё потому, что Дора дура, супер дура, Дора дура</br>
+          Потому, что Дора дура, супер дура, Дора дура</br>
+          Потому, что Дора дура, супер дура, Дора дура</br>
+          Потому, что Дора дура, супер дура, Дора дура</br></p>
+      </div>
+    </div>
+  </div>
+  <a href="https://www.youtube.com/watch?v=Kc7PL0Y0bTQ" class="btn btn-info btn-block" role="button">Посетить официальный ютуб канал Доры</a>
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-sm-4">
+        <h3>History</h3>
+        <p>Дора с детства полюбила музыку</p>
+        <p>Уже в 5 лет она каждый день пела свои любимые песни</p>
+      </div>
+      <div class="col-sm-4">
+        <h3>Beginning</h3>
+        <p>Свою первую песню Дора написала в свои 13 лет</p>
+        <p>Эта песня очень понравилась ее родителям, поэтому они отдали ее в музыкальную школу</p>
+      </div>
+      <div class="col-sm-4">
+        <h3>Now</h3>
+        <p>Сейчас у Доры более 20 песен, каждый из которых является шедевром</p>
+        <p>Концерты Доры собирают тысячи людей, большинство из которых мужчины</p>
+      </div>
+</body>
+</html>
