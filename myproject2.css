@@ -3,6 +3,31 @@ body {
     line-height: 1.8;
     color: #818181;
 }
+.navbar {
+    margin-bottom: 0;
+    background-color: #f4511e;
+    font-family: Montserrat, sans-serif;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
 .jumbotron {
     background-color: #f4511e;
     color: #fff;
@@ -59,28 +84,20 @@ body {
 .item span {
     font-style: normal;
 }
-.navbar {
-    margin-bottom: 0;
+.aside {
     background-color: #f4511e;
-    font-family: Montserrat, sans-serif;
-    z-index: 9999;
-    border: 0;
-    font-size: 12px !important;
-    line-height: 1.42857143 !important;
-    letter-spacing: 4px;
-    border-radius: 0;
-}
+    padding: 15px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); }
 
-.navbar li a, .navbar .navbar-brand {
-    color: #fff !important;
-}
-
-.navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #f4511e !important;
-    background-color: #fff !important;
-}
-
-.navbar-default .navbar-toggle {
-    border-color: transparent;
-    color: #fff !important;
-}
+    .footer {
+        background-color: #fff;
+        color: #333;
+        text-align: center;
+        font-size: 18px;
+        font-style: italic;
+        font-family: Montserrat, sans-serif;
+        padding: 18px;
+      }
